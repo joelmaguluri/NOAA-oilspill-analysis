@@ -41,5 +41,3 @@ This project is licensed under the [MIT License](LICENSE).
 We extend our gratitude to the contributors and stakeholders who have supported the development of this project.
 
 ---
-
-Feel free to customize the sections, add relevant links, and adjust the formatting according to your preferences. Remember to include the actual details for the contribution guidelines, license, and acknowledgments.
