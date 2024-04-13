@@ -6,6 +6,11 @@ Oil and chemical spill incidents present substantial threats to the environment,
 
 The primary goal of this project is to extract meaningful insights from the dataset, unveiling trends and patterns inherent in these incidents. Leveraging advanced data analysis techniques and machine learning methodologies, our aim is to contribute to the development of effective prevention and response strategies. Additionally, we seek to categorize these incidents into clusters based on the severity of the damage they have caused, providing a nuanced understanding of the diverse impacts of oil and chemical spills.
 
+
+![image](https://github.com/joelmaguluri/NOAA-oilspill-analysis/assets/29436770/4b2eea93-2e7a-4d3d-b83b-fc04e8806c5e)
+
+
+
 ## Project Phases
 
 ### 1. Data Preprocessing and Geospatial Extraction
